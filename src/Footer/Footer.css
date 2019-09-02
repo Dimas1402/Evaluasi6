@@ -1,0 +1,23 @@
+.pafooter{
+   width: 500px;
+}
+
+.footer-copyright{
+    color: white;
+
+}
+
+.container{
+    text-align: center;
+   
+}
+
+.container i {
+    color: white;
+    font-size: 50px;
+}
+
+.container i:hover{
+    
+    font-size: 40px;
+}

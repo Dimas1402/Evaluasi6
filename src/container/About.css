@@ -1,0 +1,18 @@
+.card{
+		background: rgb(17,29,75);
+background: linear-gradient(90deg, rgba(17,29,75,1) 16%, rgba(43,79,85,1) 39%, rgba(9,9,83,1) 88%);
+color: white;
+box-shadow: 6px 5px 6px 6px;
+margin-top: 5%;
+}
+
+.sama{
+	
+	height: 300px;
+}
+
+.tengah{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+
+.jumbotron{
+	background: url(https://media.giphy.com/media/xT9IgN8YKRhByRBzMI/giphy.gif);
+	background-size: cover;
+}
+
+.container{
+	color:white;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.display-4{
+	font-weight: bold;
+}
+.promo{
+		background: rgb(51,62,65);
+	    background: linear-gradient(90deg, rgba(51,62,65,1) 16%, rgba(83,131,140,1) 39%, rgba(1,1,9,1) 88%);
+	    margin: 0px;
+	    text-align: center;
+	    font-weight: bold;
+	    box-shadow: 5px 6px 5px;
+}
